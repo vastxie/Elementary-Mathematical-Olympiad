@@ -1,8 +1,0 @@
-node_modules
-package-lock.json
-yarn-error.log
-yarn.lock
-.temp
-.cache
-.vscode
-docs/.vuepess
